@@ -15,5 +15,5 @@
 - React-navigation/native-stack:^6.9.12
 
 
-# Dependencies and version will update ASAP
+# Dependencies and version will updated ASAP
 
